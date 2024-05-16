@@ -1,0 +1,106 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "title": "Twisted Love",
+            "author": "Ana Huang",
+            "image": "https://eglobuss.lv/storage/attachments/6ad/zr8/160/6adzr8160udxcauwblctduepu.jpg"
+        },
+        {
+            "id": "2",
+            "title": "Powerless",
+            "author": "Elsie Silver",
+            "image": "https://m.media-amazon.com/images/I/91hR-ElRX9L._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": "3",
+            "title": "King Of Wrath",
+            "author": "Ana Huang",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663874437i/61229235.jpg"
+        },
+        {
+            "id": "4",
+            "title": "A Court Of Thorns And Roses",
+            "author": "Sarah J. Maas",
+            "image": "https://m.media-amazon.com/images/I/81RrEEMiOCL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": "5",
+            "title": "Flawless",
+            "author": "Elsie Silver",
+            "image": "https://m.media-amazon.com/images/I/71mFkMqRvZL._AC_UF894,1000_QL80_DpWeblab_.jpg"
+        },
+        {
+            "id": "6",
+            "title": "Heartless",
+            "author": "Elsie Silver",
+            "image": "https://m.media-amazon.com/images/I/81XQ9XGWQrL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": "7",
+            "title": "Reckless",
+            "author": "Elsie Silver",
+            "image": "https://prodimage.images-bn.com/pimages/9781728297033_p0_v3_s1200x630.jpg"
+        },
+        {
+            "id": "8",
+            "title": "Hopeless",
+            "author": "Elsie Silver",
+            "image": "https://cdn.waterstones.com/bookjackets/large/9780/3494/9780349437743.jpg"
+        },
+        {
+            "id": "9",
+            "title": "The Fine Print",
+            "author": "Lauren Asher",
+            "image": "https://m.media-amazon.com/images/I/81pzRUTin6L._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": "10",
+            "title": "Wildfire",
+            "author": "Hannah Grace",
+            "image": "https://m.media-amazon.com/images/I/71NJ8ryHzrL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": "11",
+            "title": "Hooked",
+            "author": "Emilie Mcintire",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629119366i/58545703.jpg"
+        },
+        {
+            "id": "12",
+            "title": "Scarred",
+            "author": "Emilie Mcintire",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638802271i/59512586.jpg"
+        },
+        {
+            "id": "13",
+            "title": "Wretched",
+            "author": "Emilie Mcintire",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647264516i/60601111.jpg"
+        },
+        {
+            "id": "14",
+            "title": "Twisted",
+            "author": "Emilie Mcintire",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662607049i/61434791.jpg"
+        },
+        {
+            "id": "15",
+            "title": "Crossed",
+            "author": "Emilie Mcintire",
+            "image": "https://m.media-amazon.com/images/I/51CPIdNgwKL.jpg"
+        },
+        {
+            "id": "16",
+            "title": "Powerless",
+            "author": "Lauren Roberts",
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672676191i/75513900.jpg"
+        }
+    ],
+    "ratings": [
+        {
+            "id": "1",
+            "rating": "5"
+        }
+    ]
+}
